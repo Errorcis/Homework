@@ -1,0 +1,6 @@
+Lab Git 01
+- create .txt file
+- save and add file to repo
+- check  file on repo
+- delete file
+- git restore
